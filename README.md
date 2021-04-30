@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Ayush Pandey
-- 👀 I’m interested in Web Development, Cybersecurity
-- 🌱 I’m currently learning Java Script and Web Exploitation
-- 💞️ I’m looking to collaborate on Open Source
+- 👀 I’m interested in Full Stack Development, Cybersecurity
+- 🌱 I’m currently learning Front-end(Java-script) and Web Exploitation
+- 💞️ I’m looking to collaborate on Web development projects, open source
 - ⚡Fun fact:....I am a binge watcher😜. I spent almost 12 hours listening songs everyday.  
 ### Skills: 
 HTML / CSS / JS / JAVA / C++ / C / Flutter
