@@ -21,7 +21,7 @@
 <p align="left">
     <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/laptop-bg.jpg" style="max-width:100%;" height="280;"/>
     <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/while-coding-sticker.jpg" style="max-width:100%;" height="280;"/> 
-    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/do-not-disturb-coding-sticker.jpg" style="max-width:100%;" height="280;"/>
+    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/mathematics_art.jpg" style="max-width:100%;" height="280;"/>
 
     
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=heisenberg-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg-ayush" />
