@@ -19,9 +19,9 @@
 [<img src="https://camo.githubusercontent.com/935991993635cd0e6398dd4368b13949a1bac7853b6361bd8d44bf95641f986a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/twitter.png" style="max-width:100%;">](https://twitter.com/Ayushpandey069)  
 
 <p align="left">
-    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/laptop-bg.jpg" style="max-width:100%;" height="280;"/>
-    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/while-coding-sticker.jpg" style="max-width:100%;" height="280;"/> 
-    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/mathematics_art.jpg" style="max-width:100%;" height="280;"/>
+    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/mathematics_art.jpg" style="max-width:100%;" height="310;"/>
+    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/laptop-bg.jpg" style="max-width:100%;" height="310;"/>
+    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/while-coding-sticker.jpg" style="max-width:100%;" height="310;"/> 
 
     
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=heisenberg-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg-ayush" />
