@@ -1,10 +1,15 @@
-<h1 align="center"><a id="user-content-hi--im-subham" class="anchor" aria-hidden="true" href="#hi--im-subham"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a>, I’m Ayush Pandey</h1>    
+<h1 align="center"><a id="user-content-hi--im-subham" class="anchor" aria-hidden="true" href="#hi--im-subham"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a>, I’m Ayush Pandey</h1> 
 
-- 👀 I’m interested in Full Stack Development, Cybersecurity
-- 🌱 I’m currently learning Front-end(Java-script) and Web Exploitation
-- 💞️ I’m looking to collaborate on Web development projects, open source
-- ⚡Fun fact:....I am a binge watcher😜. I spent almost 12 hours listening songs everyday.  
-
+<div align="right">
+    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/Eat%20Sleep%20Code%20Repeat%20-%20Computer%20Programmers_Programming%20Print_%20Print%20available%20in%20multiple%20sizes!.jpg" style="max-width:100%;" height="180;" position="absolute;" float="right;" clear="right;"/>
+<span position="relative;" float="top;">
+- 👀 I’m interested in Full Stack Development, Cybersecurity<br>   
+- 🌱 I’m currently learning Front-end(Java-script) and Web Exploitation<br>
+- 💞️ I’m looking to collaborate on Web development projects, open source<br> 
+- ⚡Fun fact:....I am a binge watcher😜. I spent almost 12 hours listening songs everyday.     
+    </span>
+    </div>
+    
 ---
 
 ### 📫 How to reach me :  
@@ -13,10 +18,14 @@
 [<img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width:100%;">](http://www.instagram.com/_ayush_pandey___/)
 [<img src="https://camo.githubusercontent.com/935991993635cd0e6398dd4368b13949a1bac7853b6361bd8d44bf95641f986a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/twitter.png" style="max-width:100%;">](https://twitter.com/Ayushpandey069)  
 
----
+<p align="left">
+    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/laptop-bg.jpg" style="max-width:100%;" height="310;"/>
+    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/while-coding-sticker.jpg" style="max-width:100%;" height="310;"/> 
+    <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/do-not-disturb-coding-sticker.jpg" style="max-width:100%;" height="310;"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg-ayush" />
-<a href="https://github.com/heisenberg-ayush?tab=followers"><img src="https://camo.githubusercontent.com/6d20da1443f02694e6eaaf641ed8688e9d330d9538c59d0312fac3a7a12cd2d8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f53756268616d52616f6e69617232383f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/heisenberg-ayush?label=Followers&amp;style=social" style="max-width:100%;"></a></p>
+    
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=heisenberg-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg-ayush" />
+<a href="https://github.com/heisenberg-ayush?tab=followers"><img src="https://camo.githubusercontent.com/6d20da1443f02694e6eaaf641ed8688e9d330d9538c59d0312fac3a7a12cd2d8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f53756268616d52616f6e69617232383f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/heisenberg-ayush?label=Followers&amp;style=social" style="max-width:100%;"></a></p></p>
 
 ---
 
