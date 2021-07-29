@@ -13,7 +13,7 @@
 ---
 
 ### 📫 How to reach me :  
-[Check out my Portfolio Website](https://heisenberg-ayush.github.io/Portfolio/)   
+[Check out my Portfolio Website](https://heisenberg-ayush.github.io/portfolio/)   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](http://www.github.com/heisenberg-ayush) 
 <a href="https://www.linkedin.com/in/ayush-p-661a1a1b7" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width:100%;"></a>
 [<img src="https://camo.githubusercontent.com/15de05815ac1eacce5ad522291d8fc1e7bc86b2aeb4e90b063a023044efe2a91/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f696e7374616772616d2d6e65772e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="max-width:100%;">](http://www.instagram.com/_ayush_pandey___/)
