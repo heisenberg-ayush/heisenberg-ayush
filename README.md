@@ -4,7 +4,7 @@
     <img src="https://github.com/heisenberg-ayush/profile_images/blob/main/Eat%20Sleep%20Code%20Repeat%20-%20Computer%20Programmers_Programming%20Print_%20Print%20available%20in%20multiple%20sizes!.jpg" style="max-width:100%;" height="180;" position="absolute;" float="right;" clear="right;"/>
 <span position="relative;" float="top;">
 - 👀 I’m interested in Full Stack Development, Cybersecurity<br>   
-- 🌱 I’m currently learning Front-end(Java-script) and Web Exploitation<br>
+- 🌱 I’m currently learning Django for one thing, React and NodeJs for the other <br>
 - 💞️ I’m looking to collaborate on Web development projects, open source<br> 
 - ⚡Fun fact:....I am a binge watcher😜. I spent almost 12 hours listening songs everyday.     
     </span>
